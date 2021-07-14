@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![](https://github.com/kykim88/kykim88/blob/main/chat.svg)
 
