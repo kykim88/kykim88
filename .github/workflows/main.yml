@@ -24,7 +24,7 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           author_name: kykim88
-          author_email: toru123@hanmail.net
+          author_email: ky.kim@haezoom.com
           message: "Auto updating my readme"
           add: "*.svg"
         env:
