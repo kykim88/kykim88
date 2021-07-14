@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://github.com/cocojen/cocojen/blob/master/chat.svg)]
+[![](https://github.com/kykim88/kykim88/blob/main/chat.svg)]
 
 <!--
 **kykim88/kykim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
